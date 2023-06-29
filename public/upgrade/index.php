@@ -11,10 +11,7 @@ if ($redis->ping()) {
     echo "<br> Coneection succesful";
 }
 echo "</center>";
-// new lines
-
 echo "<hr><hr>";
-
-// new comment.
-
 echo phpinfo();
+
+// changes only for upgrade
