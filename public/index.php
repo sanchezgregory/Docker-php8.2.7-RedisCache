@@ -18,3 +18,6 @@ echo "<hr><hr>";
 // new comment.
 
 echo phpinfo();
+
+
+// Need these changes for the current release!!
